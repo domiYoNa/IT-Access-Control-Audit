@@ -37,8 +37,6 @@ The audit focuses on:
 
 ## 🔍 Audit Process
 
-The project follows a simplified Technology Audit workflow:
-
 ```text
 Audit Evidence
       ↓
