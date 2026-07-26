@@ -1,0 +1,11 @@
+Employee_ID,Employee,Department,Role,Account_Status,Admin_Privilege,MFA_Enabled
+EMP001,Anu,HR,HR Manager,Active,No,Yes
+EMP002,Rahul,IT,System Administrator,Active,Yes,Yes
+EMP003,Meera,Finance,Accountant,Active,No,Yes
+EMP004,John,IT,Developer,Active,No,Yes
+EMP005,David,Sales,Sales Executive,Inactive,No,No
+EMP006,Sara,IT,Developer,Active,Yes,Yes
+EMP007,Alex,Finance,Accountant,Active,No,No
+EMP008,Diya,Marketing,Marketing Executive,Active,No,Yes
+EMP009,Thomas,IT,Support Engineer,Active,No,Yes
+EMP010,Lina,HR,HR Executive,Inactive,No,No
